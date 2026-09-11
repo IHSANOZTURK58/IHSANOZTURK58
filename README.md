@@ -6,7 +6,7 @@ Bağımsız yazılım ürünleri (SaaS) ve ölçeklenebilir sistemler geliştirm
 
 <div align="center">
   <a href="https://github.com/IHSANOZTURK58">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=IHSANOZTURK58&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=IHSANOZTURK58&show_icons=true&theme=radium&hide_border=true" />
   </a>
   <a href="https://github.com/IHSANOZTURK58">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHSANOZTURK58&layout=compact&theme=radium&hide_border=true" />
@@ -25,8 +25,8 @@ Bağımsız yazılım ürünleri (SaaS) ve ölçeklenebilir sistemler geliştirm
 **🐍 Kodlama Aktivitesi**
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
