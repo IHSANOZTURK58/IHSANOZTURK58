@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba,%20Ben%20İhsan%20Öztürk&fontSize=50&animation=fadeIn" />
+</div>
 
-<!--
-**IHSANOZTURK58/IHSANOZTURK58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bağımsız yazılım ürünleri (SaaS) ve ölçeklenebilir sistemler geliştirme vizyonuyla hareket eden bir yazılım mühendisi adayıyım. Uçtan uca (Full-Stack) mimariler inşa ediyorum.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/IHSANOZTURK58">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=IHSANOZTURK58&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/IHSANOZTURK58">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHSANOZTURK58&layout=compact&theme=radium&hide_border=true" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+**🛠️ Teknoloji ve Araçlar**
+* **Backend:** C#, ASP.NET Core, Entity Framework Core, SQL Server
+* **Mobil:** React Native, Expo, JavaScript
+* **Altyapı:** Docker, Redis, MinIO
+
+<br/>
+
+**🐍 Kodlama Aktivitesi**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IHSANOZTURK58/IHSANOZTURK58/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
