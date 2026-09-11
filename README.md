@@ -1,16 +1,12 @@
-<div align="center">
+v<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba,%20Ben%20İhsan%20Öztürk&fontSize=50&animation=fadeIn" />
 </div>
 
 Bağımsız yazılım ürünleri (SaaS) ve ölçeklenebilir sistemler geliştirme vizyonuyla hareket eden bir yazılım mühendisi adayıyım. Uçtan uca (Full-Stack) mimariler inşa ediyorum.
 
 <div align="center">
-  <a href="https://github.com/IHSANOZTURK58">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=IHSANOZTURK58&show_icons=true&theme=radium&hide_border=true" />
-  </a>
-  <a href="https://github.com/IHSANOZTURK58">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHSANOZTURK58&layout=compact&theme=radium&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IHSANOZTURK58&show_icons=true&theme=radium&hide_border=true&cache_seconds=86400" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHSANOZTURK58&layout=compact&theme=radium&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
 </div>
 
 <br/>
